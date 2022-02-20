@@ -15,7 +15,7 @@ public class CriaConta {
         System.out.println("A primeira conta tem: R$ " + primeiraConta.saldo);
         System.out.println("A segunda conta tem: R$" + segundaConta.saldo);
 
-        //Ao criar um objeto, (new Conta()), todos os atributos são zerados, ou seja, é atribuido valores default.
+        //Ao criar um objeto, (new Conta()), todos os atributos são zerados, ou seja, é atribuido valores default. t
         //Boolean = False
         //int = 0
         //long = 0
