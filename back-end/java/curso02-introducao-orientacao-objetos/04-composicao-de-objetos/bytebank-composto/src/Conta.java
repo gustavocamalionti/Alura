@@ -30,7 +30,7 @@ public class Conta {
     }
 
     public double mostrarSaldo() {
-        return saldo;
+        return this.saldo;
     }
 
 }
