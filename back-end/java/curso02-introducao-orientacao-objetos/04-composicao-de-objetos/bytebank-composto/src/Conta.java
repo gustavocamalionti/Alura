@@ -1,7 +1,7 @@
 
 
 public class Conta {
-    double saldo;
+    double saldo = 100;
     int agencia = 1;
     int numero;
     Cliente titular; //TODA CONTA TEM UMA REFERÊNCIA PARA UM CLIENTE
