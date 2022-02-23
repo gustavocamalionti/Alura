@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/curso02-introducao-orientacao-objetos/02-introducao-oo/02-introducao-oo.iml" filepath="$PROJECT_DIR$/java/curso02-introducao-orientacao-objetos/02-introducao-oo/02-introducao-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/03-ComecandoComIntelliJ.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/03-ComecandoComIntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso02-introducao-orientacao-objetos/03-definindo-comportamento/03-definindo-comportamento.iml" filepath="$PROJECT_DIR$/java/curso02-introducao-orientacao-objetos/03-definindo-comportamento/03-definindo-comportamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/04-TiposeVariaveis.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/04-TiposeVariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/05-TrabalhandocomCaracteres.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/05-TrabalhandocomCaracteres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/06-PraticandoCondicionais.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/06-PraticandoCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/07-ControlandoFluxoscomLacos.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/07-ControlandoFluxoscomLacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/back-end.iml" filepath="$PROJECT_DIR$/.idea/back-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/curso01-jdk-jre-primeiro-codigo.iml" filepath="$PROJECT_DIR$/java/curso01-jdk-jre-primeiro-codigo/curso01-jdk-jre-primeiro-codigo.iml" />
+    </modules>
+  </component>
+</project>
