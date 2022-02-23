@@ -5,7 +5,7 @@ public class TestaSacaNegativo {
         conta.deposita(100);
 
         System.out.println(conta.saca(200)); //conta.saca(200);
-        System.out.println(conta.mostrarSaldo());
+        System.out.println(conta.getSaldo());
 
         //Proibido mexer diretamente na variável/atributo:
         // conta.saldo = conta.saldo - 101;
