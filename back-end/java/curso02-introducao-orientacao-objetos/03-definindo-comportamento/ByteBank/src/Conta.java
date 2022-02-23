@@ -28,6 +28,16 @@ public class Conta {
                 }
         }
 
+        public boolean transfere(double valor, Conta destino) {
+                if(this.saldo >= valor) {
+                        this.saldo -= valor;
+                        destino.deposita(valor);
+                        return true;
+                } else {
+                        return false;
+                }
+        }
+
 }
 
 //Apartir desse esquema acima, podemos contruir quantas contas quiser (quantos objetos/instância quiser).
