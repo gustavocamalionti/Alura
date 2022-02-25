@@ -1,8 +1,8 @@
 public class Conta {
     private double saldo;
-    int agencia = 1;
-    int numero;
-    Cliente titular; //TODA CONTA TEM UMA REFERÊNCIA PARA UM CLIENTE
+    private int agencia = 1;
+    private int numero;
+    private Cliente titular; //TODA CONTA TEM UMA REFERÊNCIA PARA UM CLIENTE
 
     public void deposita(double valor) {
         this.saldo = this.saldo + valor;
@@ -30,5 +30,15 @@ public class Conta {
     public double getSaldo() {
         return this.saldo;
     }
+
+    public int getNumero() { return this.numero; }
+    public void setNumero(int Numero) {this.numero = Numero;}
+
+    public int getAgencia() {return this.agencia;}
+    public void setAgencia(int agencia) {this.agencia = agencia;}
+
+    public void setTitular(Cliente titular) {this.titular = titular;}
+    public Cliente getTitular() {return titular;}
+
 
 }
