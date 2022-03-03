@@ -10,5 +10,11 @@ public class TestaValores {
 
         System.out.println("N° de Agencia - usando setters: " + conta.getAgencia()); //Apesar da restrição no atributo, ainda tenho como retorno 0.
         System.out.println("Número da conta - Usando Setters: " + conta.getNumero()); //Mesma situação acima, são valores default (CONSTRUTOR).
+
+        Conta conta2 = new Conta(1337,1145424196);
+        Conta conta3 = new Conta(1337,5113224791);
+
+        System.out.println(Conta.getTotal());
+
     }
 }

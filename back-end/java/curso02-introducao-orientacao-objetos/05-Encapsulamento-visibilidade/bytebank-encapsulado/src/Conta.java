@@ -3,10 +3,14 @@ public class Conta {
     private int agencia;
     private int numero;
     private Cliente titular; //TODA CONTA TEM UMA REFERÊNCIA PARA UM CLIENTE
+    private static int total; // ATRIBUTO COMPARTILHADO DA *******CLASSE*******, E NÃO DA INSTÂNCIA
 
 
     public Conta(int agencia, int numero) {//Construtor padrão // Não é um método // é uma rotina de iniciação.
-       this.agencia = agencia;
+       //this.total++; >>>>>>>> ERRADO, POIS total NÃO É MAIS DO OBJETO, MAS SIM DA CLASSE EM GERAL.
+        Conta.total++;
+        System.out.println("O total de contas é " + Conta.total);
+        this.agencia = agencia;
        this.numero = numero;
         System.out.println("print do número da conta no construtor: " + this.numero);
     }
@@ -58,6 +62,10 @@ public class Conta {
 
     public void setTitular(Cliente titular) {this.titular = titular;}
     public Cliente getTitular() {return titular;}
+
+    public static int getTotal() { //DA CLASSE
+        return Conta.total;
+    }
 
 
 }
