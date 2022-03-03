@@ -3,6 +3,16 @@ public class Funcionario {
     private String cpf;
     private double salario;
 
+    public Funcionario() {
+
+    }
+
+    //Funcionario recebe uma bonificação de 10% do salario como padrão;
+    //Problema maior - Gerente e funcionario ganham bonificações diferentes. O que fazer? usar herança!
+    public double getBonificacao() {
+        return this.salario*0.1;
+    }
+
     public String getNome() {
         return nome;
     }
@@ -15,7 +25,7 @@ public class Funcionario {
         return cpf;
     }
 
-    public void setCpf(String cpf){
+    public void setCpf(String cpf) {
         this.cpf = cpf;
     }
 
