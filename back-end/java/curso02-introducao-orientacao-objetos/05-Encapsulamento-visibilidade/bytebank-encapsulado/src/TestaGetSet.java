@@ -1,6 +1,6 @@
 public class TestaGetSet {
     public static void main(String[] args) {
-        Conta conta = new Conta();
+        Conta conta = new Conta(002, 410392141);
         //conta.numero = 11; não compila porque o atributo é privado
         conta.setNumero(11);
         System.out.println(conta.getNumero());
