@@ -2,174 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07d88fc7-fb0a-4765-bf8d-504cf16b3cec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/02 - Instalacao e o Primeiro Programa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/02-InstalacaoPrimeiroPrograma/PrimeiroPrograma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/03-ComecandoComIntelliJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/Programa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/out/production/Programa/Programa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/03-ComecandoComIntelliJ/Programa/src/Programa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/04-TiposeVariaveis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/SintaxeVariaveisFluxos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/out/production/SintaxeVariaveisFluxos/TestaConversao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/out/production/SintaxeVariaveisFluxos/TestaPontoFlutuante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/out/production/SintaxeVariaveisFluxos/TestaVariaveis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/src/TestaConversao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/src/TestaPontoFlutuante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/04-TiposeVariaveis/SintaxeVariaveisFluxos/src/TestaVariaveis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/05-TrabalhandocomCaracteres.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/SintaxeVariaveisFluxos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/out/production/SintaxeVariaveisFluxos/TestaCaracteres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/out/production/SintaxeVariaveisFluxos/TestaValores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/src/TestaCaracteres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/05-TrabalhandocomCaracteres/SintaxeVariaveisFluxos/src/TestaValores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/06-PraticandoCondicionais.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/Condicional.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/out/production/Condicional/Exercicio01Aliquota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/out/production/Condicional/Exercicio02SwitchMes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/out/production/Condicional/TestaCondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/out/production/Condicional/TestaCondicional2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/out/production/Condicional/TestaEscopo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/src/Exercicio01Aliquota.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/src/Exercicio02SwitchMes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/src/TestaCondicional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/src/TestaCondicional2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/06-PraticandoCondicionais/Condicional/src/TestaEscopo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/07-ControlandoFluxoscomLacos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/FluxosLacos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/ExFatorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/ExMultiplosTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/TestaFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/TestaLacos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/TestaLacosBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/TesteSomatoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/out/production/FluxosLacos/TesteWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/ExFatorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/ExMultiplosTres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/TestaFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/TestaLacos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/TestaLacosBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/TesteSomatoria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/07-ControlandoFluxoscomLacos/src/TesteWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso01-jdk-jre-primeiro-codigo/curso01-jdk-jre-primeiro-codigo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/ByteBank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/out/production/ByteBank/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/out/production/ByteBank/CriaConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/out/production/ByteBank/TestaMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/out/production/ByteBank/TesteReferencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/src/CriaConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/src/TestaMetodo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/02-introducao-oo/ByteBank/src/TesteReferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/ByteBank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/out/production/ByteBank/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/out/production/ByteBank/CriaConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/out/production/ByteBank/TestaMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/out/production/ByteBank/TesteReferencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/src/CriaConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/src/TestaMetodo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/03-definindo-comportamento/ByteBank/src/TesteReferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/ByteBank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/out/production/ByteBank/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/out/production/ByteBank/CriaConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/out/production/ByteBank/TestaMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/out/production/ByteBank/TesteReferencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/src/CriaConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/src/TestaMetodo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/ByteBank/src/TesteReferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/bytebank-composto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/out/production/bytebank-composto/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/out/production/bytebank-composto/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/out/production/bytebank-composto/Diagrama Conta-Cliente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/out/production/bytebank-composto/TestaBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/out/production/bytebank-composto/TestaContaSemCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/src/Diagrama Conta-Cliente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/src/TestaBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/04-composicao-de-objetos/bytebank-composto/src/TestaContaSemCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/bytebank-composto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/Diagrama Conta-Cliente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/TestaBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/TestaContaSemCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/out/production/bytebank-composto/TestaSacaNegativo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/Diagrama Conta-Cliente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/TestaBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/TestaContaSemCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-composto/src/TestaSacaNegativo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/bytebank-encapsulado.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/diagrama de objetos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/Diagrama Conta-Cliente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/TestaBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/TestaContaSemCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-composto/TestaSacaNegativo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-encapsulado/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-encapsulado/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/out/production/bytebank-encapsulado/TestaGetSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/src/TestaGetSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../curso02-introducao-orientacao-objetos/05-Encapsulamento-visibilidade/bytebank-encapsulado/src/TestaValores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25rB0sFXT7JbJ3O67XCnbLlWxGW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,8 +24,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../../../Program Files/Java/jdk-17.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="b-super-reescrita-metodos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="bytebank-herdado" />
       <method v="2">

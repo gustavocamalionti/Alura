@@ -25,7 +25,7 @@ public class Gerente extends Funcionario {
         return senha;
     }
 
-    public double getBonitifacao() {
-        return salario*0.5;
-    }
+//    public double getBonitifacao() {
+//        return salario*0.5;
+//    }
 }
