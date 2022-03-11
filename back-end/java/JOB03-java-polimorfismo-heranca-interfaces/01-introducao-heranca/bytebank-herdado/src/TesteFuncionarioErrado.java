@@ -17,4 +17,6 @@ public class TesteFuncionarioErrado {
         System.out.println(f2.getTipo());
         System.out.println(f2.getBonificacao());
     }
+
+    //E se tivesse mais 20 tipos de funcionários diferentes? que trabalho né?
 }

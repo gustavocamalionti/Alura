@@ -1,8 +1,24 @@
+//Esses problemas no código ou design também são
+// chamados de Code Smells (mau cheiro no código).
+// Existe um livro famoso Clean Code, do autor Robert
+// C Martin, que ficou famoso pois mostra os Code Smells
+// e como resolvê-los. O livro já é um pouco antigo, mas
+// vale a leitura.
+
 public class FuncionarioTesteErrado {
     private String nome;
     private String cpf;
     private double salario;
     private int tipo = 0; //Funcionario Comum = 0 || Gerente = 1 || Diretor = 2
+    private int senha;
+
+    public boolean autentica(int senha){
+        if(this.senha == senha) {
+            return true;
+        } else {
+            return false;
+        }
+    }
     public FuncionarioTesteErrado() {
 
     }
@@ -12,9 +28,9 @@ public class FuncionarioTesteErrado {
     public double getBonificacao() {
         if(this.tipo == 0) { //Funcionario Comum
             return this.salario*0.10;
-        } else if(this.tipo == 1) {
+        } else if(this.tipo == 1) { //Gerente
             return this.salario*1;
-        } else {
+        } else { //Diretor
             return this.salario + 1000.0;
         }
     }
