@@ -10,7 +10,7 @@ public class Funcionario {
     //Funcionario recebe uma bonificação de 10% do salario como padrão;
     //Problema maior - Gerente e funcionario ganham bonificações diferentes. O que fazer? usar herança!
     public double getBonificacao() {
-        return this.salario*0.1;
+        return this.salario*0.05;
     }
 
     public String getNome() {

@@ -31,8 +31,8 @@ public class Gerente extends Funcionario {
 //    Vimos que a sobrescrita é um conceito importante na herança, pois permite redefinir
 //    um comportamento previsto na classe mãe através da classe filha.
 
-    public double getBonififacao() { //**Reescrita** do método da classe mãe na classe filho.
-        return super.salario*0.5; //indica que o atributo é da super classe - classe mãe/pai.
+    public double getBonificacao() { //**Reescrita** do método da classe mãe na classe filho.
+        return (super.getBonificacao() + super.salario); //indica que o atributo é da super classe - classe mãe/pai.
     }
 
     //
