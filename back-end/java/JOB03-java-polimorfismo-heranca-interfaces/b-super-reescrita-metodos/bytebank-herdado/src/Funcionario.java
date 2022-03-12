@@ -1,7 +1,7 @@
 public class Funcionario {
     private String nome;
     private String cpf;
-    private double salario;
+    protected double salario; // publico para os meus filhos - outras classes não.
 
     public Funcionario() {
 
