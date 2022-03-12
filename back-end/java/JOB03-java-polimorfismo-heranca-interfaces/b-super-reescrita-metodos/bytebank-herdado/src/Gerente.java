@@ -32,7 +32,7 @@ public class Gerente extends Funcionario {
 //    um comportamento previsto na classe mãe através da classe filha.
 
     public double getBonificacao() { //**Reescrita** do método da classe mãe na classe filho.
-        return (super.getBonificacao() + super.salario); //indica que o atributo é da super classe - classe mãe/pai.
+        return (super.getBonificacao() + super.getSalario()); //indica que o atributo é da super classe - classe mãe/pai.
     }
 
     //
