@@ -1,7 +1,7 @@
 public class TesteReferencias {
     public static void main(String[] args) {
         Gerente g1 = new Gerente(); //Objeto Criado, declarando variável e atribuindo referência.
-        g1.setNome("Kleber Matsumoto");
+        g1.setNome("Kleber Marcos");
         String nome1 = g1.getNome();
 
         System.out.println(nome1);
@@ -11,6 +11,8 @@ public class TesteReferencias {
         String nome2 = g2.getNome();
 
         System.out.println(nome2);
+
+
 
     }
 }
