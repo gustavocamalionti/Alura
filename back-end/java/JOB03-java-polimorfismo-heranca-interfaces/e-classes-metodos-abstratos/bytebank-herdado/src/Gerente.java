@@ -48,7 +48,7 @@ public class Gerente extends Funcionario {
 //    Uma classe mãe pode ter diversas classes filhas e netas.
     public double getBonificacao() { //**Reescrita** do método da classe mãe na classe filho.
         System.out.println("Chamando o método de bonificacao do GERENTE!");
-        return (super.getBonificacao() + super.getSalario()); //indica que o atributo é da super classe - classe mãe/pai.
+        return super.getSalario(); //indica que o atributo é da super classe - classe mãe/pai.
     }
 
     //
