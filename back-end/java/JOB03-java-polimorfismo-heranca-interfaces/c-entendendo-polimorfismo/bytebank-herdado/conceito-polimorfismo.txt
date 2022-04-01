@@ -1,0 +1,3 @@
+É a capacidade de um objeto ser referenciado por vários tipos.
+
+Temos polimorfismo quando uma classe extende de outra ou também quando uma classe implementa uma interface.
