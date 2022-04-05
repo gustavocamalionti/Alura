@@ -1,11 +1,12 @@
 
-@/**
+/**
  *
  *
  *
  * @author Gustavo Camalionti
  * @version 1.0
  */
+
 public abstract class Conta {
     @DoublePositivo
     protected double saldo;
