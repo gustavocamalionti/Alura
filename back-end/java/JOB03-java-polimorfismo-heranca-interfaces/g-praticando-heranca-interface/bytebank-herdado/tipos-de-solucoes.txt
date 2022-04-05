@@ -1,0 +1,4 @@
+Solução para Polymorfismo - Interface
+Solução para Herança - Reutilização de Código e Polymorfismo
+Solução para Reutilização de Código - Composicao 
+	1) Pegar o código que se repete e jogar em uma classe.
