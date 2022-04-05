@@ -1,7 +1,13 @@
 
 //Na herança, a gente herda os atributos e os métodos. No entanto, não herda os construtores.
 //new ContaCorrente()
-public class ContaCorrente extends Conta {
+public class ContaCorrente extends Conta implements Tributavel {
+
+    @Override
+    public double getValorImposto() {
+        return super.saldo*0.01;
+    }
+
     public ContaCorrente(int agencia, int numero) {
         super(agencia, numero);
     };
