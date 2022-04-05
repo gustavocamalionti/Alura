@@ -1,0 +1,2 @@
+- Uma anotação é uma configuração no seu código Java
+- Uma dica a mais no código
