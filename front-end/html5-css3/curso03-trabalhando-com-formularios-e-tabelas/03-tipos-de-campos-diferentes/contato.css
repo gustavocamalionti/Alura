@@ -12,6 +12,7 @@ form {
 form label,form p {
     display: block;
     font-size: 25px;
+    margin: 0 0 10px;
 }
 
 .input-padrao {
@@ -24,3 +25,5 @@ form label,form p {
 .checkbox {
     margin: 20px 0;
 }
+
+
