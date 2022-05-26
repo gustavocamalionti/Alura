@@ -1,31 +1,23 @@
-@charset "UTF-8";
-
 body {
-    background-color: blanchedalmond;
+	background: #CCCCCC
 }
 
 #banner {
-    width: 100%;
+	width: 100%;
 }
 
 h1 {
-    color:cadetblue;
-    text-align: center;
+	text-align: center
 }
 
 p {
-    text-align: center;
+	text-align: center;
 }
-
-strong {
-    color: rebeccapurple;
-}
-
 
 #missao {
-    font-size: 20px
+	font-size: 20px
 }
 
-em strong{
-    color: #FF0000;
+em strong {
+	color: #FF0000;
 }
