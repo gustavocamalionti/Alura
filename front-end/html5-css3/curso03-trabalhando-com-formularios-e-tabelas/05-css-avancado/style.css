@@ -66,6 +66,7 @@ footer {
     border-radius: 15px;
     background-color: rgb(94, 95, 97);
     margin: 1% 1%;
+	transition: 1s background;
 }
 
 #chat:active {

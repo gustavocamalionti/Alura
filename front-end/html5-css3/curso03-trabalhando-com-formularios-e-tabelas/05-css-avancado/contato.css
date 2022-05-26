@@ -27,7 +27,21 @@ form label,legend {
 }
 
 .enviar {
-    width:40%
+    width:40%;
+    padding: 15px 0;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size:18px;
+    border:none;
+    border-radius:5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background-color: red;
+    transform: scale(1.2);
 }
 
 
