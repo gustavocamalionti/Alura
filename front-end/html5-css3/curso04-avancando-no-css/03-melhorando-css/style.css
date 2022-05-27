@@ -161,7 +161,6 @@ td, th {
 	width:100%;
 }
 
-
 .titulo-principal {
 	text-align: center;
 	font-size: 2em;
@@ -223,6 +222,21 @@ td, th {
 	font-weight: bold;
 	
 }
+
+/*.itens:last-child {
+	font-weight: bold;
+	
+}
+
+.itens:nth-child(4) {
+	font-weight: bold;
+	
+}
+
+.itens:nth-child(2n) { elementos pares
+	font-weight: bold;
+	
+}*/
 
 .video {
 	width: 560px;
