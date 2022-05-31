@@ -191,7 +191,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	background-color: orange;
+	background: linear-gradient(orange,blue);
 }
 
 .mapa-conteudo {
