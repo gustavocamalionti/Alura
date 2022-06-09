@@ -164,6 +164,18 @@ td, th {
 	clear: left;
 }
 
+.titulo-principal:first-letter{
+	font-weight: bolder;
+}
+
+.titulo-principal:before {
+	content: "[ ";
+}
+
+.titulo-principal:after {
+content: " ]";
+}
+
 .principal {
 	padding: 3em 0;
 	background: #FEFEFE;
@@ -235,6 +247,10 @@ iframe {
 .itens:first-child {
 	font-weight: bold;
 	
+}
+
+.itens:before{
+	content: "🟊";
 }
 
 /*.itens:last-child {
