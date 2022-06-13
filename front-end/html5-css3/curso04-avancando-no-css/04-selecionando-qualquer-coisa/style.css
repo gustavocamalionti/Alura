@@ -273,3 +273,22 @@ iframe {
 	margin: 1em auto;
 }
 
+/*selecionando todos os p que são filhos diretos de main*/
+/*main > p {
+	background: red;
+}*/
+
+/*selecionando o primeiro paragrafo após uma imagem*/
+/*img + p {
+	background:blue;
+}*/
+
+/*Selecionando todos os paragrafos depois de uma imagem*/
+/*img ~ p {
+	background: yellow;
+}*/
+
+/*Selecionar todos os paragramos de .principal que não possuem #missão*/
+/*.principal p:not(#missao) {
+	background: orange;
+}*/
