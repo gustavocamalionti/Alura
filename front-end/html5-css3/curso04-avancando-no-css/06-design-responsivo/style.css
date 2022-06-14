@@ -250,7 +250,9 @@ td, th {
 }
 
 @media screen and (max-width: 480px) {
-	.caixa, .principal, .mapa .mapa-conteudo, .beneficios, .beneficios .conteudo-beneficios, .video, .video iframe {
+	.caixa, .principal, 
+	.beneficios, .beneficios .conteudo-beneficios, 
+	.video {
 		width: auto;
 	}
 }
