@@ -162,7 +162,8 @@ td, th {
 	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
-	color: rgba(0,0,0,0.3)
+	color: rgba(0,0,0,0.3);
+	text-shadow: 1.5px 1.5px #000000;
 }
 
 .titulo-principal:first-letter{
@@ -224,12 +225,14 @@ iframe {
 	padding: 3em 0; 
 	background: #888888;
 	border-radius: 10px;
+	box-shadow: inset 0 0 30px #ff0000;
 }
 
 .imagem-beneficios {
 	width: 60%;
 	opacity:1;
 	transition:400ms;
+	box-shadow: 10px 10px 13px 5px #000000, -10px -10px yellow, -20px 20px rgba(255,0,0,50%);
 }
 
 .imagem-beneficios:hover {
