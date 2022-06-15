@@ -250,6 +250,7 @@ td, th {
 }
 
 @media screen and (max-width: 480px) {
+	/*Index*/
 	.caixa, .principal, 
 	.conteudo-beneficios, .mapa-conteudo, .video {
 		width: auto;
@@ -265,5 +266,15 @@ td, th {
 
 	.lista-beneficios, .imagem-beneficios {
 		width:100%
+	}
+
+	/*Contato*/
+
+	.enviar {
+		margin: 10% 30%;
+	}
+
+	table {
+		margin: 10% auto;
 	}
 }
