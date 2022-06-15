@@ -277,4 +277,21 @@ td, th {
 	table {
 		margin: 10% auto;
 	}
+
+	/*Produtos*/
+	.produtos {
+		width:auto;
+		
+	}
+
+	.produtos li {
+		display: block;
+		width: 75%;
+		margin: 0 auto 35px;
+	}
+
+	.produtos img {
+		width:100%
+	}
+
 }
