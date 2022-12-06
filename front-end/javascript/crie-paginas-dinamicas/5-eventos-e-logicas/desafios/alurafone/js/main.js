@@ -7,7 +7,7 @@ function ImprimeInputClick(tecla) {
 }
 
 
-for (let indice = 0; listaDeTeclas.length - 1; indice++) {
+for (let indice = 0; listaDeTeclas.length; indice++) {
     const tecla = listaDeTeclas[indice];
 
     tecla.onclick = function() {

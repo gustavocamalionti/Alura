@@ -8,7 +8,7 @@ const listaDeTeclas = document.querySelectorAll('.tecla'); //o valor é constant
 
 
 //Para -------------------------------------------------------------------------------------------
-for (let contador=0; contador < listaDeTeclas.length - 1; contador++) {
+for (let contador=0; contador < listaDeTeclas.length; contador++) {
     const tecla = listaDeTeclas[contador];
     const instrumento = tecla.classList[1];
     const idAudio = `#som_${instrumento}`
