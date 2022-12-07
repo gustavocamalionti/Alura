@@ -13,4 +13,14 @@ for (let indice = 0; listaDeTeclas.length; indice++) {
     tecla.onclick = function() {
         ImprimeInputClick(tecla);
     }
+
+    tecla.onkeydown = function(e) {
+        if(e.code === "Enter" || e.code === "Space") {
+            tecla.classList.add('ativa');
+        }
+    }
+
+    tecla.onkeyup = function() {
+        listaDeTeclas.classList.remove('ativa');
+    }
 }
